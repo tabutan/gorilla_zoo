@@ -1,0 +1,13 @@
+# 動物園のゴリラ
+歴代の日本の動物園にいたゴリラの略歴をまとめることを目的とする。
+
+## ゴリラの情報確認
+webで公開されている情報を参考に情報整理した [@goopass_gori]。
+
+## ゴリラがいる日本の動物園
+
+```{r member, echo = FALSE, out.width = "90%"}
+knitr::include_graphics("figure/p_gori_member.png")
+```
+
+# 参考文献
