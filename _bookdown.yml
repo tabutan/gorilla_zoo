@@ -1,4 +1,4 @@
-book_filename: "Gorilla_zoo"  
+book_filename: "動物園のゴリラ"  
 rmd_files:                    
   - index.Rmd
   - gorilla_japan_zoo.Rmd

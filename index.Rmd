@@ -1,5 +1,5 @@
 --- 
-title: "Gorilla-zoo"
+title: "動物園のゴリラ"
 author: "tabutan"
 date: "`r Sys.Date()`"
 output: 
